@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Animation</string>
+    <string name="animation_me">AnimtionMe</string>
+    <string name="animation_set">混合动画</string>
+    <string name="animation__set_xml">混合动画XML</string>
+    <string name="anim_listener">动画监听器</string>
+    <string name="animation_listener">动画监听器</string>
+
+</resources>

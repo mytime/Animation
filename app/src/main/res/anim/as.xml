@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?><!--shareInterpolator 共享插入器
+
+    -->
+<set xmlns:android="http://schemas.android.com/apk/res/android"
+    android:duration="1000"
+    android:shareInterpolator="true">
+
+    <!--插入透明动画-->
+    <alpha
+        android:fromAlpha="0"
+        android:toAlpha="1"></alpha>
+    <!--插入移位动画-->
+    <translate
+        android:fromXDelta="200"
+        android:fromYDelta="200"
+        android:toXDelta="0"
+        android:toYDelta="0"></translate>
+</set>
